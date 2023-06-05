@@ -94,6 +94,7 @@ p {
 .benefit-lead, .benefit-brand, .benefit-cost { /* shared styles */
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost { /* shared styles */
