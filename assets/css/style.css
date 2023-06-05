@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +77,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* BENEFITS */
 
 .benefits {
     margin-right: 20px;
